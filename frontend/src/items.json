@@ -1,0 +1,67 @@
+{
+  "items": [
+    {
+      "id": 1,
+      "rating": 1,
+      "stock": 3,
+      "name": "OnePlus9",
+      "price": "1",
+      "category": "Camera",
+      "image": "https://res.cloudinary.com/dsaxsymtn/image/upload/v1655020084/products/mad5dyxes93vtm7eyt4x.jpg"
+    },
+    {
+      "id": 2,
+      "rating": 4,
+      "stock": 1,
+      "name": "Canon EOS 5D Mark IV",
+      "price": "0.5",
+      "category": "Camera",
+      "image": "https://res.cloudinary.com/dsaxsymtn/image/upload/v1655023853/products/r6nvyhvj8gvb0jxjzqkp.jpg"
+    },
+    {
+      "id": 3,
+      "rating": 0,
+      "stock": 8,
+      "name": "Puma Men's Shoes",
+      "price": "0.1",
+      "category": "Tops",
+      "image": "https://res.cloudinary.com/dsaxsymtn/image/upload/v1655024192/products/z5k2cibpayocvlrwv7fj.jpg"
+    },
+    {
+      "id": 4,
+      "rating": 0,
+      "stock": 5,
+      "name": "Puma Men's Shoes",
+      "price": "2",
+      "category": "Footwear",
+      "image": "https://res.cloudinary.com/dsaxsymtn/image/upload/v1655027970/products/y3q4xsawqaif2izskfgj.jpg"
+    },
+    {
+      "id": 5,
+      "rating": 0,
+      "stock": 1,
+      "name": "Mi Notebook Pro",
+      "price": "0.3",
+      "category": "Laptop",
+      "image": "https://res.cloudinary.com/dsaxsymtn/image/upload/v1655028214/products/xmzw3rzzj6uugnh0fh8i.jpg"
+    },
+    {
+      "id": 6,
+      "rating": 0,
+      "stock": 32,
+      "name": "Ben Martin Men's Regular Fit Cotton Casual Trouser",
+      "price": "0.2",
+      "category": "Bottom",
+      "image": "https://res.cloudinary.com/dsaxsymtn/image/upload/v1655028429/products/vp0awfdplne40s82urhp.jpg"
+    },
+    {
+      "id": 7,
+      "rating": 1,
+      "stock": 10,
+      "name": "Nityanta Fab Women's Net Lehenga Choli",
+      "price": "0.2",
+      "category": "Attire",
+      "image": "https://res.cloudinary.com/dsaxsymtn/image/upload/v1655028735/products/iu4znqxlzuvysaav51io.webp"
+    } 
+  ]
+}
