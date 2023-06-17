@@ -31,5 +31,5 @@
     transition: all 0.5s;
 }
 .searchBox>input[type="submit"]:hover{
-    background-color:  rgba(214, 84, 61)
+    background-color:  rgb(52, 56, 185)
 }

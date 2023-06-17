@@ -32,19 +32,6 @@ function ConfirmOrder({ history, dappazon, provider, account, setAccount }) {
     account ? "Connected" : "Connect To MetaMask"
   );
 
-  // const fetchDetails = async () => {
-  //   const events = await dappazon.queryFilter("Buy");
-  //   // const orders = events.filter(
-  //   //   (event) =>
-  //   //     event.args.buyer === account &&
-  //   //     event.args.itemId.toString() === item.id.toString()
-  //   // );
-
-  //   // if (orders.length === 0) return;
-
-  //   // const order = await dappazon.orders(account, orders[0].args.orderId);
-  //   // setOrder(order);
-  // };
   const connectHandler = async () => {
     if (!account && connected !== "Connected") {
       const accounts = await window.ethereum.request({
